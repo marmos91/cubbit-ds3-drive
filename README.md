@@ -4,6 +4,9 @@
 
 <h1 align="center">DS3 Drive</h1>
 
+> [!IMPORTANT]
+> This repository is **archived** and no longer maintained. It has been superseded by the official commercial version of DS3 Drive, provided by [Cubbit](https://www.cubbit.io). Please use the official product going forward.
+
 <p align="center">
   Sync your files with <a href="https://www.cubbit.io">Cubbit DS3</a> cloud storage, on macOS, iOS, and Windows.
 </p>
